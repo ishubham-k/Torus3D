@@ -3,7 +3,7 @@ cmake_minimum_required(VERSION 3.16 FATAL_ERROR)
 include(cmake/Vcpkg.cmake) # needs to happen before project()
 
 project(
-    "my-test" # replace this with the name of your executable
+    "boxxy-3d" # the name of the executable
     VERSION 0.1.0
     LANGUAGES CXX
 )
